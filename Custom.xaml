@@ -1,10 +1,4 @@
-<!--
-     \- Simple Mainpage -\
-      \- by MFn -\
-       \- https://github.com/MFn233/PCL-Mainpage -\
-        \- Version: 0.1.4 -\
-         \- Stable Version 2 -\
--->
+<!-- Simple Mainpage by MFn https://github.com/MFn233/PCL-Mainpage Version: 0.1.4 Stable Version 2 -->
 
 <!--欢迎页-->
 <local:MyCard Margin="0,-6,0,12" Title="欢迎"> <!--下面不是卡片，所以不用0,0,0,12-->
